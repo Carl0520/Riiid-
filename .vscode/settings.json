@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/carlchao/anaconda3/bin/python",
+    "python.linting.mypyEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pylamaEnabled": false,
+    "python.linting.pycodestyleEnabled": true
+}
